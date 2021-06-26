@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "event": "learn Vuex 4",
+      "description": "Study how to use Vuex for Vue state management ",
+      "isCompleted": false,
+      "id": 2
+    },
+    {
+      "event": "Tadex Login Page",
+      "description": "Complete the login page for client Tadex ",
+      "isCompleted": false,
+      "id": 3
+    }
+  ]
+}
